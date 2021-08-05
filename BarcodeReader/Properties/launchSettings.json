@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BarcodeReader": {
+      "commandName": "Project",
+      "commandLineArgs": "testdata1.txt"
+    }
+  }
+}
